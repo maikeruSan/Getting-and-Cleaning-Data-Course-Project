@@ -4,7 +4,7 @@ The data, imported, transformed, aggregated, and persisted by the script; the ou
 
 Each variable of the original dataset is renamed in a descriptive form when the script reads it into memory. The map diagram could describe the structure of the variable name.
 
-The following table listed and indexed all of the 68 variables and their properties,  which might help the data-users get a whole picture of the data more accessible.
+The following table listed and indexed all of the 68 variables and their properties,  which might help the data-users get a whole picture of the data more accessible.
 
 																				
 |Variable|SignalDomain|Sensor|BodyOrGravity|Magnitude_A|JerkSignals|Magnitude_B|Estimate|Axial|Remark|
