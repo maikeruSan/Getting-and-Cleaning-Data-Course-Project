@@ -1,10 +1,13 @@
 ### The codebook aims to give a better understanding of the variables for anyone who interests in the data. 
 
-The data, imported, transformed, aggregated, and persisted by the script; the outcome contained 68 variables.
+1. The data, imported, transformed, aggregated, and persisted by the script; the outcome contained 68 variables.
 
-Each variable of the original dataset is renamed in a descriptive form when the script reads it into memory. The map diagram could describe the structure of the variable name.
+2. Each variable of the original dataset is renamed in a descriptive form when the script reads it into memory. The map diagram could describe the structure of the variable name.
 
-The following table listed and indexed all of the 68 variables and their properties,  which might help the data-users get a whole picture of the data more accessible.
+![alt text](https://raw.githubusercontent.com/maikeruSan/Getting-and-Cleaning-Data-Course-Project/main/map.png "Map of variable name")
+
+
+3.  The following table listed and indexed all of the 68 variables and their properties,  which might help the data-users get a whole picture of the data more accessible.
 
 																				
 |Variable|SignalDomain|Sensor|BodyOrGravity|Magnitude_A|JerkSignals|Magnitude_B|Estimate|Axial|Remark|
