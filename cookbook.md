@@ -12,8 +12,8 @@
 																				
 |Variable|SignalDomain|Sensor|BodyOrGravity|Magnitude_A|JerkSignals|Magnitude_B|Estimate|Axial|Remark|
 |--------|------------|------|-------------|-----------|-----------|-----------|--------|-----|------|
-|	Identifier	|	NA	|	NA	|	NA	|	NA	|	NA	|	NA	|	NA	|	NA	|	NA	|
-|	ActivityLabel	|	NA	|	NA	|	NA	|	NA	|	NA	|	NA	|	NA	|	NA	|	NA	|
+|	Identifier	|	NA	|	NA	|	NA	|	NA	|	NA	|	NA	|	NA	|	NA	|	Subjetcs(1~30)	|
+|	ActivityLabel	|	NA	|	NA	|	NA	|	NA	|	NA	|	NA	|	NA	|	NA	|	Aactivities Lables(1:WALKING,2:WALKING_UPSTAIRS,3:WALKING_DOWNSTAIRS,4:SITTING,5:STANDING,6:LAYING) 	|
 |	TimeBodyAceleration_MEAN_X	|	Time	|	Accelerometer	|	Body	|	NA	|	NA	|	NA	|	Mean	|	X	|	NA	|
 |	TimeBodyAceleration_MEAN_Y	|	Time	|	Accelerometer	|	Body	|	NA	|	NA	|	NA	|	Mean	|	Y	|	NA	|
 |	TimeBodyAceleration_MEAN_Z	|	Time	|	Accelerometer	|	Body	|	NA	|	NA	|	NA	|	Mean	|	Z	|	NA	|
