@@ -2,9 +2,9 @@
 
 ## Table Of Contents
 *   [General info](#general-info)
-*   [Dataset](##dataset)
+*   [Dataset](#dataset)
 *   [Requirements](#requirements)
-*   [How does this work?](#how-does-this-work?)
+*   [How does this work?](#how-does-this-work)
 
 ## General Info 
 This repo is a project that aims to demonstrate writing an R script and implementing 3rd-party libraries to extract, manuplate, and clean a data set.
@@ -19,7 +19,7 @@ It is the original dataset source also the target of this project's data enginee
 * data.table
 * dplyr
 
-## How does this work?
+## How does this work
 First thing first, make sure all the dependencies packages have been installed in your R environment.
 Open "run_analysis.R" in R studio, press the Source button to execute the script file , procedures in the script file invoked one after another by the main() function.  The ordered steps are following:
 1.  Download then Unzip dataset into a folder from the URL automatically.
