@@ -11,7 +11,7 @@ This repo is a project that aims to demonstrate writing an R script and implemen
 
 # Dataset
 ##### "Human Activity Recognition Using Smartphones Data" 
-It is the original dataset source also the target of this project's data engineering process. You can find the full description and download the zipped dataset from here.
+It is the original dataset source also the target of this project's data engineering process. You can find the full description and download the zipped dataset from [here](https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip).
 
 ## Requirements
 * R version 4.0.*
